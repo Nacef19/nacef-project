@@ -26,13 +26,11 @@ body {
   line-height: 35px;
 }
 
-.header .activites {
+.activites {
   float: left;
-  color: black;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(77,77,193,1) 50%, rgba(0,212,255,1) 100%);
   font-size: 35px; 
   margin-top: 10px;
-  padding-left: 150px;
-
 }
 
 .header a:hover {
@@ -63,7 +61,4 @@ body {
   position:relative;
   text-decoration: none;
 }
-
-
-
 
